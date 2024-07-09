@@ -6,7 +6,7 @@ valores de real brasileiro a partir das taxas de câmbio que foram consumidas em
 As moedas utilizadas foram: Dólar Americano, Euro, Libra, Iene e Franco Suiço. 
 
 ## Badge
-Este é um badge conquistado por ter desenvolvido este projeto com a Alura no programa ONE - "Oracle Next Education" em parceria com a Oracle:
+Este é um badge conquistado por ter desenvolvido o primeiro challenge. 
 
 <div align="center">
 
